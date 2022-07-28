@@ -45,9 +45,10 @@ using cv::BRISK;
 using cv::AKAZE;
 using cv::KAZE;
 
+using cv::SIFT;
+
 using cv::xfeatures2d::BriefDescriptorExtractor;
 using cv::xfeatures2d::SURF;
-using cv::xfeatures2d::SIFT;
 using cv::xfeatures2d::DAISY;
 using cv::xfeatures2d::FREAK;
 
